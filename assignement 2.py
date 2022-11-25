@@ -1,7 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# # My jupyter Notebook on IBM Studio
+# My jupyter Notebook on IBM Studio
 
 # **Elsa Bellity**  
 # Data scientist
